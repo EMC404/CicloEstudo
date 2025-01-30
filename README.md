@@ -16,3 +16,6 @@ Funcionalidades principais:
 -Salvamento de progresso de estudo (tempo estudado e anotações) em arquivo Excel.
 -Gerenciamento de matérias com possibilidade de adicionar, remover e reorganizar.
 -Interface simples e intuitiva para facilitar a organização e o controle do estudo.
+
+
+o Foco é que seja uma ferramente de codigo aberto e que venha ajudar a democratizar o ensino 
