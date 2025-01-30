@@ -18,4 +18,6 @@ Funcionalidades principais:
 -Interface simples e intuitiva para facilitar a organização e o controle do estudo.
 
 
-o Foco é que seja uma ferramente de codigo aberto e que venha ajudar a democratizar o ensino licensa MIT
+o Foco é que seja uma ferramente de codigo aberto e que venha ajudar a democratizar o ensino
+
+ licensa MIT
