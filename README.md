@@ -1,4 +1,4 @@
-O CicloEstudo é um aplicativo simples de gerenciamento de estudos focado em concursos, 
+O CicloEstudo é um aplicativo simples baseado em python, serve para gerenciamento de estudos focado em concursos, 
 permitindo que o usuário organize e controle seu tempo de estudo de forma eficiente.
 
 
